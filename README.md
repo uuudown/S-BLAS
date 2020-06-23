@@ -7,8 +7,7 @@ S-BLAS: A Scalable Sparse-BLAS Kernel Library for Multi-GPUs.
 
 **Release Number:** 0.1
 
-**License:** MIT License
-
+**License:** MIT License, PNNL-IPID: 31803-E, IR: PNNL-31803
 
 Installation Guide
 ==================
@@ -81,7 +80,7 @@ We verify the running results using the CPU implmentation. Please see the code f
 
 License
 ----------
-This project is licensed under the MIT License, see LICENSE file for details.
+This project is licensed under the MIT License, see [LICENSE](./LICENSE) file for details.
 
 Acknowledgments
 ----------
